@@ -404,7 +404,7 @@ To force re-seed: `python seed.py --force`
 
 ## 📹 Demo Video
 
-[▶ Watch 4-minute walkthrough](https://your-demo-link.com)
+[▶ Watch 5-minute walkthrough](https://drive.google.com/file/d/1RLWXTAF8f7FTTXSS9Ni62p5QlmG4_32r/view)
 
 Topics covered:
 - Pasting and parsing a real JD
