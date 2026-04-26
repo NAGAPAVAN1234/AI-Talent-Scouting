@@ -7,4 +7,3 @@ httpx
 numpy
 scikit-learn
 pymongo
-difflib — difflib
